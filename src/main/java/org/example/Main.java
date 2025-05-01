@@ -7,7 +7,7 @@ public class Main {
         int number = 12;
 
         switch (number) {
-            case 17:
+            case 12:
                 System.out.println("number is big");
                 break;
             case 10:
