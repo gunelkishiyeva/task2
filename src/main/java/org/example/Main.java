@@ -32,6 +32,20 @@ public class Main {
                     break;
             }
 
+        String sport = "voleybol";
+
+        switch (sport){
+            case ("voleybol"):
+                System.out.println("this is voleybol");
+                break;
+            case ("futbol"):
+                System.out.println("this is futbol");
+                break;
+            case ("running"):
+                System.out.println("this is running");
+                break;
+        }
+
 
 
         }
